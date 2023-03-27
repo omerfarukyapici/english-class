@@ -1,9 +1,12 @@
 export {
-    useFetch
+    data
 }
 
-const useFetch = () => {
+
+const data = () => {
+
     return {
 
     }
 }
+
